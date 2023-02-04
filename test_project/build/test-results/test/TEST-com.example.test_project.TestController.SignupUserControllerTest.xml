@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.test_project.TestController.SignupUserControllerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-02-04T04:12:52" hostname="RTEP-HONG" time="0.499">
+  <properties/>
+  <testcase name="#1 - Run test with request = {lastName=Hong, password=12345678, email=hongnguyen0204@gmail.com, firstName=Nguyen}" classname="com.example.test_project.TestController.SignupUserControllerTest" time="0.368"/>
+  <testcase name="#1 - Run test with request = {lastName=test, password=12345678, email=, firstName=test}" classname="com.example.test_project.TestController.SignupUserControllerTest" time="0.041"/>
+  <testcase name="#2 - Run test with request = {lastName=test, password=12345678, email=abc, firstName=test}" classname="com.example.test_project.TestController.SignupUserControllerTest" time="0.013"/>
+  <testcase name="#3 - Run test with request = {lastName=test, password=12345678, email=12341, firstName=test}" classname="com.example.test_project.TestController.SignupUserControllerTest" time="0.011"/>
+  <testcase name="#4 - Run test with request = {lastName=test, password=12345678, email=abc.com, firstName=test}" classname="com.example.test_project.TestController.SignupUserControllerTest" time="0.011"/>
+  <testcase name="#5 - Run test with request = {lastName=test, password=, email=hong@gmail.com, firstName=test}" classname="com.example.test_project.TestController.SignupUserControllerTest" time="0.011"/>
+  <testcase name="#6 - Run test with request = {lastName=test, password=1234567, email=hong@gmail.com, firstName=test}" classname="com.example.test_project.TestController.SignupUserControllerTest" time="0.009"/>
+  <testcase name="#7 - Run test with request = {lastName=test, password=123456789123456789123, email=hong@gmail.com, firstName=test}" classname="com.example.test_project.TestController.SignupUserControllerTest" time="0.009"/>
+  <system-out><![CDATA[11:12:50.130 [Test worker] DEBUG org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.example.test_project.TestController.SignupUserControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+11:12:50.214 [Test worker] DEBUG org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper - Using ContextCustomizers for test class [SignupUserControllerTest]: [DisableAutoConfigurationContextCustomizer, DisableObservabilityContextCustomizer, TypeExcludeFiltersContextCustomizer, PropertyMappingContextCustomizer, Customizer, ImportsContextCustomizer, ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer]
+11:12:50.275 [Test worker] DEBUG org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper - Using TestExecutionListeners for test class [SignupUserControllerTest]: [ServletTestExecutionListener, DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, TransactionalTestExecutionListener, SqlScriptsTestExecutionListener, WithSecurityContextTestExecutionListener, EventPublishingTestExecutionListener, ReactorContextTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, ResetMocksTestExecutionListener]
+11:12:50.277 [Test worker] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: class [SignupUserControllerTest], class annotated with @DirtiesContext [false] with mode [null]
+
+        ,--,                                          ,--.
+      ,--.'|                                        ,--.'|
+   ,--,  | :                                    ,--,:  : |       ,---.
+,---.'|  : '   ,---.        ,---,            ,`--.'`|  ' :      /__./|
+|   | : _' |  '   ,'\   ,-+-. /  |  ,----._,.|   :  :  | | ,---.;  ; |
+:   : |.'  | /   /   | ,--.'|'   | /   /  ' /:   |   \ | :/___/ \  | |
+|   ' '  ; :.   ; ,. :|   |  ,"' ||   :     ||   : '  '; |\   ;  \ ' |
+'   |  .'. |'   | |: :|   | /  | ||   | .\  .'   ' ;.    ; \   \  \: |
+|   | :  | ''   | .; :|   | |  | |.   ; ';  ||   | | \   |  ;   \  ' .
+'   : |  : ;|   :    ||   | |  |/ '   .   . |'   : |  ; .'   \   \   '
+|   | '  ,/  \   \  / |   | |--'   `---`-'| ||   | '`--'      \   `  ;
+;   : ;--'    `----'  |   |/       .'__/\_: |'   : |           :   \ |
+|   ,/                '---'        |   :    :;   |.'            '---"
+'---'                               \   \  / '---'
+                                     `--`-'
+Powered by Spring Boot 3.0.2
+2023-02-04T11:12:50.885+07:00  INFO 2784 --- [    Test worker] c.e.t.T.SignupUserControllerTest         : Starting SignupUserControllerTest using Java 17.0.5 with PID 2784 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T11:12:50.888+07:00  INFO 2784 --- [    Test worker] c.e.t.T.SignupUserControllerTest         : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:12:52.923+07:00  INFO 2784 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T11:12:52.924+07:00  INFO 2784 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T11:12:52.926+07:00  INFO 2784 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-02-04T11:12:52.965+07:00  INFO 2784 --- [    Test worker] c.e.t.T.SignupUserControllerTest         : Started SignupUserControllerTest in 2.569 seconds (process running for 4.219)
+2023-02-04T11:12:53.311+07:00  INFO 2784 --- [    Test worker] c.e.t.Controller.UserController          : [UserController - signup] start.
+2023-02-04T11:12:53.316+07:00  INFO 2784 --- [    Test worker] c.e.t.Controller.UserController          : [UserController - signup] end.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,145 @@
+2023-02-04T10:31:04.090+07:00  INFO 3336 --- [Test worker] c.e.t.TestController.UserControllerTest  : Starting UserControllerTest using Java 17.0.5 with PID 3336 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T10:31:04.100+07:00  INFO 3336 --- [Test worker] c.e.t.TestController.UserControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T10:31:06.083+07:00  INFO 3336 --- [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T10:31:06.083+07:00  INFO 3336 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T10:31:06.085+07:00  INFO 3336 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-02-04T10:31:06.121+07:00  INFO 3336 --- [Test worker] c.e.t.TestController.UserControllerTest  : Started UserControllerTest in 2.398 seconds (process running for 3.605)
+2023-02-04T10:37:34.975+07:00  INFO 10976 --- [Test worker] c.e.t.TestController.UserControllerTest  : Starting UserControllerTest using Java 17.0.5 with PID 10976 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T10:37:34.977+07:00  INFO 10976 --- [Test worker] c.e.t.TestController.UserControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T10:37:36.732+07:00  INFO 10976 --- [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T10:37:36.732+07:00  INFO 10976 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T10:37:36.734+07:00  INFO 10976 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-02-04T10:37:36.771+07:00  INFO 10976 --- [Test worker] c.e.t.TestController.UserControllerTest  : Started UserControllerTest in 2.154 seconds (process running for 3.437)
+2023-02-04T10:37:37.024+07:00  INFO 10976 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] start.
+2023-02-04T10:37:37.052+07:00  INFO 10976 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] end.
+2023-02-04T10:39:05.985+07:00  INFO 4932 --- [Test worker] c.e.t.TestController.UserControllerTest  : Starting UserControllerTest using Java 17.0.5 with PID 4932 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T10:39:05.988+07:00  INFO 4932 --- [Test worker] c.e.t.TestController.UserControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T10:39:07.741+07:00  INFO 4932 --- [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T10:39:07.742+07:00  INFO 4932 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T10:39:07.744+07:00  INFO 4932 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-02-04T10:39:07.795+07:00  INFO 4932 --- [Test worker] c.e.t.TestController.UserControllerTest  : Started UserControllerTest in 2.157 seconds (process running for 3.417)
+2023-02-04T10:39:08.080+07:00  INFO 4932 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] start.
+2023-02-04T10:39:08.092+07:00  INFO 4932 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] end.
+2023-02-04T10:46:35.080+07:00  INFO 7320 --- [Test worker] c.e.t.TestController.UserControllerTest  : Starting UserControllerTest using Java 17.0.5 with PID 7320 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T10:46:35.083+07:00  INFO 7320 --- [Test worker] c.e.t.TestController.UserControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T10:46:36.741+07:00  INFO 7320 --- [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T10:46:36.742+07:00  INFO 7320 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T10:46:36.744+07:00  INFO 7320 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-02-04T10:46:36.781+07:00  INFO 7320 --- [Test worker] c.e.t.TestController.UserControllerTest  : Started UserControllerTest in 2.041 seconds (process running for 3.215)
+2023-02-04T10:46:37.021+07:00  INFO 7320 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] start.
+2023-02-04T10:46:37.024+07:00  INFO 7320 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] end.
+2023-02-04T11:01:05.984+07:00  INFO 20240 --- [Test worker] c.e.t.TestController.UserControllerTest  : Starting UserControllerTest using Java 17.0.5 with PID 20240 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T11:01:05.987+07:00  INFO 20240 --- [Test worker] c.e.t.TestController.UserControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:01:08.009+07:00  INFO 20240 --- [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T11:01:08.010+07:00  INFO 20240 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T11:01:08.012+07:00  INFO 20240 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-02-04T11:01:08.052+07:00  INFO 20240 --- [Test worker] c.e.t.TestController.UserControllerTest  : Started UserControllerTest in 2.523 seconds (process running for 3.925)
+2023-02-04T11:01:08.451+07:00  INFO 20240 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] start.
+2023-02-04T11:01:08.456+07:00  INFO 20240 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] end.
+2023-02-04T11:07:29.795+07:00  INFO 13192 --- [Test worker] c.e.t.T.SignupUserControllerTest         : Starting SignupUserControllerTest using Java 17.0.5 with PID 13192 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T11:07:29.798+07:00  INFO 13192 --- [Test worker] c.e.t.T.SignupUserControllerTest         : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:07:31.947+07:00  INFO 13192 --- [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T11:07:31.949+07:00  INFO 13192 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T11:07:31.954+07:00  INFO 13192 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2023-02-04T11:07:32.020+07:00  INFO 13192 --- [Test worker] c.e.t.T.SignupUserControllerTest         : Started SignupUserControllerTest in 2.602 seconds (process running for 4.037)
+2023-02-04T11:07:32.744+07:00  INFO 13192 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] start.
+2023-02-04T11:07:32.752+07:00  INFO 13192 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] end.
+2023-02-04T11:08:22.279+07:00  INFO 21516 --- [Test worker] c.e.t.T.SignupUserControllerTest         : Starting SignupUserControllerTest using Java 17.0.5 with PID 21516 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T11:08:22.283+07:00  INFO 21516 --- [Test worker] c.e.t.T.SignupUserControllerTest         : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:08:24.156+07:00  INFO 21516 --- [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T11:08:24.157+07:00  INFO 21516 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T11:08:24.159+07:00  INFO 21516 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-02-04T11:08:24.197+07:00  INFO 21516 --- [Test worker] c.e.t.T.SignupUserControllerTest         : Started SignupUserControllerTest in 2.392 seconds (process running for 4.219)
+2023-02-04T11:08:24.628+07:00  INFO 21516 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] start.
+2023-02-04T11:08:24.634+07:00  INFO 21516 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] end.
+2023-02-04T11:08:35.968+07:00  INFO 21584 --- [main] c.e.test_project.TestProjectApplication  : Starting TestProjectApplication using Java 17.0.5 with PID 21584 (D:\Java Spring Boot\test_project\build\classes\java\main started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T11:08:35.972+07:00  INFO 21584 --- [main] c.e.test_project.TestProjectApplication  : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:08:36.826+07:00  INFO 21584 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-04T11:08:36.900+07:00  INFO 21584 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 64 ms. Found 2 JPA repository interfaces.
+2023-02-04T11:08:37.584+07:00  INFO 21584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-02-04T11:08:37.600+07:00  INFO 21584 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-02-04T11:08:37.600+07:00  INFO 21584 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-04T11:08:37.713+07:00  INFO 21584 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-02-04T11:08:37.713+07:00  INFO 21584 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1694 ms
+2023-02-04T11:08:37.935+07:00  INFO 21584 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-04T11:08:38.017+07:00  INFO 21584 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-02-04T11:08:38.265+07:00  WARN 21584 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-02-04T11:08:38.408+07:00  INFO 21584 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-02-04T11:08:39.454+07:00  INFO 21584 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7d61468c
+2023-02-04T11:08:39.457+07:00  INFO 21584 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-02-04T11:08:39.569+07:00  INFO 21584 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-02-04T11:08:41.341+07:00  INFO 21584 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-04T11:08:41.355+07:00  INFO 21584 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-04T11:08:41.840+07:00  WARN 21584 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-04T11:08:42.164+07:00  INFO 21584 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5e94947e, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4a1c14a6, org.springframework.security.web.context.SecurityContextHolderFilter@65b7678a, org.springframework.security.web.header.HeaderWriterFilter@7bbd0006, org.springframework.security.web.authentication.logout.LogoutFilter@24e31f06, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5bbc033f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@734a2c17, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1bc1aa9e, org.springframework.security.web.access.ExceptionTranslationFilter@66b3eab0, org.springframework.security.web.access.intercept.AuthorizationFilter@1360ef8d]
+2023-02-04T11:08:42.455+07:00  INFO 21584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-04T11:08:42.463+07:00  INFO 21584 --- [main] c.e.test_project.TestProjectApplication  : Started TestProjectApplication in 6.986 seconds (process running for 7.952)
+2023-02-04T11:09:22.293+07:00  INFO 21584 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-04T11:09:22.295+07:00  INFO 21584 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-02-04T11:09:22.304+07:00  INFO 21584 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-02-04T11:09:25.410+07:00  INFO 15148 --- [main] c.e.test_project.TestProjectApplication  : Starting TestProjectApplication using Java 17.0.5 with PID 15148 (D:\Java Spring Boot\test_project\build\classes\java\main started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T11:09:25.413+07:00  INFO 15148 --- [main] c.e.test_project.TestProjectApplication  : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:09:26.180+07:00  INFO 15148 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-04T11:09:26.267+07:00  INFO 15148 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 78 ms. Found 2 JPA repository interfaces.
+2023-02-04T11:09:26.892+07:00  INFO 15148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-02-04T11:09:26.903+07:00  INFO 15148 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-02-04T11:09:26.903+07:00  INFO 15148 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-04T11:09:27.000+07:00  INFO 15148 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-02-04T11:09:27.001+07:00  INFO 15148 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1538 ms
+2023-02-04T11:09:27.178+07:00  INFO 15148 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-04T11:09:27.243+07:00  INFO 15148 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-02-04T11:09:27.468+07:00  WARN 15148 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-02-04T11:09:27.634+07:00  INFO 15148 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-02-04T11:09:28.551+07:00  INFO 15148 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ab5924c
+2023-02-04T11:09:28.553+07:00  INFO 15148 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-02-04T11:09:28.655+07:00  INFO 15148 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-02-04T11:09:30.340+07:00  INFO 15148 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-04T11:09:30.352+07:00  INFO 15148 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-04T11:09:30.836+07:00  WARN 15148 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-04T11:09:31.128+07:00  INFO 15148 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5edaa572, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1892865f, org.springframework.security.web.context.SecurityContextHolderFilter@eea0b48, org.springframework.security.web.header.HeaderWriterFilter@65b69ccb, org.springframework.security.web.authentication.logout.LogoutFilter@3146f3d7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6d5d1204, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1784a296, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@460df441, org.springframework.security.web.access.ExceptionTranslationFilter@65880400, org.springframework.security.web.access.intercept.AuthorizationFilter@27bc2650]
+2023-02-04T11:09:31.416+07:00  INFO 15148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-04T11:09:31.423+07:00  INFO 15148 --- [main] c.e.test_project.TestProjectApplication  : Started TestProjectApplication in 6.558 seconds (process running for 7.484)
+2023-02-04T11:12:36.522+07:00  INFO 11280 --- [Test worker] c.e.t.T.SignupUserControllerTest         : Starting SignupUserControllerTest using Java 17.0.5 with PID 11280 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T11:12:36.525+07:00  INFO 11280 --- [Test worker] c.e.t.T.SignupUserControllerTest         : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:12:38.635+07:00  INFO 11280 --- [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T11:12:38.636+07:00  INFO 11280 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T11:12:38.639+07:00  INFO 11280 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-02-04T11:12:38.675+07:00  INFO 11280 --- [Test worker] c.e.t.T.SignupUserControllerTest         : Started SignupUserControllerTest in 2.654 seconds (process running for 4.282)
+2023-02-04T11:12:39.023+07:00  INFO 11280 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] start.
+2023-02-04T11:12:39.028+07:00  INFO 11280 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] end.
+2023-02-04T11:12:44.096+07:00  INFO 15148 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-04T11:12:44.098+07:00  INFO 15148 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-02-04T11:12:44.108+07:00  INFO 15148 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-02-04T11:12:50.885+07:00  INFO 2784 --- [Test worker] c.e.t.T.SignupUserControllerTest         : Starting SignupUserControllerTest using Java 17.0.5 with PID 2784 (started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T11:12:50.888+07:00  INFO 2784 --- [Test worker] c.e.t.T.SignupUserControllerTest         : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:12:52.923+07:00  INFO 2784 --- [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-02-04T11:12:52.924+07:00  INFO 2784 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-02-04T11:12:52.926+07:00  INFO 2784 --- [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-02-04T11:12:52.965+07:00  INFO 2784 --- [Test worker] c.e.t.T.SignupUserControllerTest         : Started SignupUserControllerTest in 2.569 seconds (process running for 4.219)
+2023-02-04T11:12:53.311+07:00  INFO 2784 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] start.
+2023-02-04T11:12:53.316+07:00  INFO 2784 --- [Test worker] c.e.t.Controller.UserController          : [UserController - signup] end.
+2023-02-04T11:12:59.600+07:00  INFO 9644 --- [main] c.e.test_project.TestProjectApplication  : Starting TestProjectApplication using Java 17.0.5 with PID 9644 (D:\Java Spring Boot\test_project\build\classes\java\main started by ADMIN in D:\Java Spring Boot\test_project)
+2023-02-04T11:12:59.604+07:00  INFO 9644 --- [main] c.e.test_project.TestProjectApplication  : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:13:00.352+07:00  INFO 9644 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-04T11:13:00.420+07:00  INFO 9644 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 60 ms. Found 2 JPA repository interfaces.
+2023-02-04T11:13:01.029+07:00  INFO 9644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-02-04T11:13:01.037+07:00  INFO 9644 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-02-04T11:13:01.037+07:00  INFO 9644 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-04T11:13:01.121+07:00  INFO 9644 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-02-04T11:13:01.122+07:00  INFO 9644 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1473 ms
+2023-02-04T11:13:01.302+07:00  INFO 9644 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-04T11:13:01.353+07:00  INFO 9644 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-02-04T11:13:01.504+07:00  WARN 9644 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-02-04T11:13:01.633+07:00  INFO 9644 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-02-04T11:13:03.121+07:00  INFO 9644 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7d61468c
+2023-02-04T11:13:03.123+07:00  INFO 9644 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-02-04T11:13:03.333+07:00  INFO 9644 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-02-04T11:13:04.976+07:00  INFO 9644 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-04T11:13:04.986+07:00  INFO 9644 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-04T11:13:05.450+07:00  WARN 9644 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-04T11:13:05.759+07:00  INFO 9644 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5e94947e, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4a1c14a6, org.springframework.security.web.context.SecurityContextHolderFilter@65b7678a, org.springframework.security.web.header.HeaderWriterFilter@7bbd0006, org.springframework.security.web.authentication.logout.LogoutFilter@24e31f06, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5bbc033f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@734a2c17, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1bc1aa9e, org.springframework.security.web.access.ExceptionTranslationFilter@66b3eab0, org.springframework.security.web.access.intercept.AuthorizationFilter@1360ef8d]
+2023-02-04T11:13:06.066+07:00  INFO 9644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-04T11:13:06.074+07:00  INFO 9644 --- [main] c.e.test_project.TestProjectApplication  : Started TestProjectApplication in 6.929 seconds (process running for 7.867)
+2023-02-04T11:13:09.621+07:00  INFO 9644 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-04T11:13:09.623+07:00  INFO 9644 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-02-04T11:13:09.633+07:00  INFO 9644 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
